@@ -15,4 +15,4 @@ git ub
 This fetches remote changes and rebases your current branch onto its upstream. Check the upstream with `git branch -vv`; set one with `git push -u origin <branch>`. If `ub` is already defined in your setup, inspect it with `git config --get alias.ub`.
 
 
-# THIS IS MAIN MAIN BRANCH
+# THIS IS BUG bug BRANCH
